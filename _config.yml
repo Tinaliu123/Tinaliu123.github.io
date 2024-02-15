@@ -7,21 +7,21 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yi Liu/ Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yi Liu"
+description              : &description "a third year undergraduate student from Wuhan University."
+url                      : https://tinaliu123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Tinaliu123/Tinaliu123.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yi Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Wuhan University."
   pronouns         : # example: "she/her"
-  location         : "Location"
+  location         : "Hubei,China"
   orcid            : "http://orcid.org/yourorcidurl"
   employer         :
   email            :  
@@ -29,9 +29,9 @@ author:
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
@@ -41,7 +41,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Tinaliu123"
   goodreads        :
   google_plus      :
   keybase          :
@@ -49,14 +49,14 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : #"mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
