@@ -3,10 +3,10 @@ main:
   - title: "Publication"
     url: /publications/
 
-  - title: "Education"
+  - title: "Experience"
     url: /talks/    
 
-  - title: "Experience"
+  - title: "Education"
     url: /teaching/    
     
   - title: "Award"
