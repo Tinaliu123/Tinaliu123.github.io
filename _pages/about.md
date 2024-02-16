@@ -56,4 +56,5 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 - **Meritorious Mention**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022.
 - **First Prize**, The 24th Innovation Cup of Renmin University of China, 2022.
 
-[Email](yi_liu@whu.edu.cn) / [Github](https://github.com/Tinaliu123) / [Wechat](../images/wechat.png) 
+### Contact
+- [Email](yi_liu@whu.edu.cn) / [Github](https://github.com/Tinaliu123) / [Wechat](../images/wechat.png) 
