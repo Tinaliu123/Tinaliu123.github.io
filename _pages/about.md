@@ -11,7 +11,6 @@ Hi,I am a third year undergraduate student from [School of Computer Science](htt
 I am very fortunate to be advised by [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ) of [Captain Lab](http://www.captain-whu.com/team.html) from School of Computer Science, Wuhan University. 
 You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](yi_liu@whu.edu.cn) / [Github](https://github.com/Tinaliu123) / [Wechat](../images/wechat.png) 
 ### Publication
 
 #### 2023
@@ -57,3 +56,4 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 - **Meritorious Mention**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022.
 - **First Prize**, The 24th Innovation Cup of Renmin University of China, 2022.
 
+[Email](yi_liu@whu.edu.cn) / [Github](https://github.com/Tinaliu123) / [Wechat](../images/wechat.png) 
