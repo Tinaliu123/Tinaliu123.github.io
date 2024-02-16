@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publication"
-    url: /publication/
+  #- title: "Publication"
+  #  url: /publication/
 
-  - title: "Experience"
-    url: /experience/    
+  #- title: "Experience"
+  #  url: /experience/    
 
-  - title: "Education"
-    url: /education/    
+ # - title: "Education"
+#  url: /education/    
     
-  - title: "Award"
-    url: /award/
+#  - title: "Award"
+ #   url: /award/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
