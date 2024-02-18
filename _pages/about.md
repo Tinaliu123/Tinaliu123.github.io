@@ -56,7 +56,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 ### Award
 
-- **Lei Jun Computer Science undergraduate Scholarship** (comprehensive evaluation:4/239), Wuhan University, 2023.
+- **Lei Jun Computer Science undergraduate Scholarship** (comprehensive evaluation rank:4/239), Wuhan University, 2023.
 - **First-Class Scholarship**, Wuhan University, 2023.
 - **National Third Prize**, China Collegiate Computing Contest Aritificial Intelligence Innovation Contest, 2023.
 - **First prize**,Chinese Collegiate Computing Competition in South Central Division , 2023.
