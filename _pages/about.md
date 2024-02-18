@@ -18,29 +18,37 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 #### 2023
 
-- **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation.**
-  Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu
-  NeurIPS 2023
-  [paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
+#- **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation.**
+#  Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu
+#  NeurIPS 2023
+#  [paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
 
-- **Towards Effective Ancient Chinese Translation: Dataset, Model, and Evaluation.**
-  Geyang Guo, Jiarong Yang, Fengyuan Lu, **Jiaxin Qin**, Tianyi Tang, Wayne Xin Zhao
-  NLPCC 2023
-  [paper](https://arxiv.org/pdf/2308.00240.pdf)
+#- **Towards Effective Ancient Chinese Translation: Dataset, Model, and Evaluation.**
+#  Geyang Guo, Jiarong Yang, Fengyuan Lu, **Jiaxin Qin**, Tianyi Tang, Wayne Xin Zhao
+#  NLPCC 2023
+#  [paper](https://arxiv.org/pdf/2308.00240.pdf)
 
 ### Education
 
-- **University of California Davis**
-  2023.3 - 2024.6, Exchange student in [Computer Science Department](https://cs.ucdavis.edu/)
-  Relevant Courses: [Advanced Artificial Intelligence](https://www.ifmlab.org/courses.html) (graduate-level course, A+).
+#- **University of California Davis**
+#  2023.3 - 2024.6, Exchange student in [Computer Science Department](https://cs.ucdavis.edu/)
+#  Relevant Courses: [Advanced Artificial Intelligence](https://www.ifmlab.org/courses.html) (graduate-level course, A+).
 
-- **B.E., Renmin University of China**
-  2020 - 2024, [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
-  Advisor: [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ).
-  Cumulative GPA: 3.77/4.0 (Rank: 1/23); Junior Year GPA: 3.92/4.0.
-  Relevant Courses: Discrete Mathematics, Machine Learning, Deep Learning, Data Structure and Algorithm, Design and Analysis of Algorithms, Information Retrieval System, Knowledge Representation Learning, Foundations of Computer Systems, Graph Theory, Optimization Theory, Object-oriented Programming
+- **B.E., Wuhan University**
+  2021 - 2025, [School of Computer Science](https://cs.whu.edu.cn/)
+  Advisor: [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ).
+  Cumulative GPA: 3.88/4.0 (Rank: top 7%).
+  Relevant Courses: Discrete Mathematics(score:94), Information Processing of Cognitive Processes(score:97),Data Structure(score:93),Digital Image Processing and Application（score:97）,Combinatorial Mathematics(score:96),Advanced Programming Language(score:91),System-Level Programming(score:98),Computer Organiazation and Design(score:90),Operating Systems(score:95),Database Systems(score:97),Computer Networks(score:90),Business Intelligence(score:95).
 
 ### Experience
+
+- **Research Intern, Shanghai Artificial Intelligence Laboratory**
+  05/2023 - 10/2023
+  Advisor: [Jiang Wu].
+  Topic:A Benchmark for Multimodal Remote Sensing with Large Language Models (arXiv coming soon)
+
+
+### Project
 
 - **Visiting Undergraduate Student, University of Illinois Urbana-Champaign**
   10/2023 - 01/2024
