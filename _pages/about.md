@@ -42,9 +42,9 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 ### Experience
 
-- **Research Intern, Shanghai Artificial Intelligence Laboratory**
+- **Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
   05/2023 - 10/2023
-  Advisor: [Jiang Wu].      
+  Advisor: [Jiang Wu]().      
   Topic:A Benchmark for Multimodal Remote Sensing with Large Language Models (arXiv coming soon)
 
 
