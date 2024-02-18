@@ -50,16 +50,10 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 ### Project
 
-- **Visiting Undergraduate Student, University of Illinois Urbana-Champaign**
-  10/2023 - 01/2024
-  Advisor: [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html), [Chi Han](https://glaciohound.github.io/), and [Zixuan Zhang](https://zhangzx-uiuc.github.io/).
-  Topic: Knowledge Editing and the Ripple Effect behavior of LLMs (arXiv coming soon)
-
-- **Research Intern, University of California Berkeley**
-  05/2023 - 10/2023
-  Advisor: [Prof. Jiantao Jiao](https://people.eecs.berkeley.edu/~jiantao/) and [Banghua Zhu](https://people.eecs.berkeley.edu/~banghua/).
-  Topic: PlanBench: A Benchmark for Planning with Large Language Models (arXiv coming soon)
-
+- **Research on intelligent land plot extraction from deep learning remote sensing images based on feature fusion**
+  09/2022 - 07/2023           
+  Advisor: [Prof. Hongyan Zhang](https://scholar.google.com.hk/citations?user=fq7Uqx0AAAAJ&hl=zh-CN&oi=ao).          
+  Achievements: It is awarded as a national good project.One patent:a method and system for intelligent interpretation and analysis of land plots from remote sensing images has been submitted.             
 ### Award
 
 - **Academic Excellence Award** (Top 5% GPA), Renmin Univ. of China, 2021, 2023.
