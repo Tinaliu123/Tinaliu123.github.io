@@ -47,16 +47,17 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   Advisor: [Jiang Wu]().      
   Topic:A Benchmark for Multimodal Remote Sensing with Large Language Models (arXiv coming soon)
 
-
 ### Project
 
 - **Research on intelligent land plot extraction from deep learning remote sensing images based on feature fusion**
   09/2022 - 07/2023           
   Advisor: [Prof. Hongyan Zhang](https://scholar.google.com.hk/citations?user=fq7Uqx0AAAAJ&hl=zh-CN&oi=ao).          
-  Achievements: It is awarded as a national good project.One patent:a method and system for intelligent interpretation and analysis of land plots from remote sensing images has been submitted.             
+  Achievements: It is awarded as a national good project.One patent:a method and system for intelligent interpretation and analysis of land plots from remote sensing images has been submitted.
+
 ### Award
 
-- **Academic Excellence Award** (Top 5% GPA), Renmin Univ. of China, 2021, 2023.
-- **Provincial First Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2022.
-- **Meritorious Mention**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022.
-- **First Prize**, The 24th Innovation Cup of Renmin University of China, 2022.
+- **Lei Jun Computer Science undergraduate Scholarship** (comprehensive evaluation:4/239), Wuhan University, 2023.
+- **First-Class Scholarship**, Wuhan University, 2023.
+- **National Third Prize**, China Collegiate Computing Contest Aritificial Intelligence Innovation Contest, 2023.
+- **First prize**,Chinese Collegiate Computing Competition in South Central Division , 2023.
+- **Third Prize**, Asia and Pacific Mathematical Contest in Modeling, 2022.
