@@ -13,7 +13,8 @@ Hi,I am a third year undergraduate student from [School of Computer Science](htt
 
 I am very fortunate to be advised by [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ) of [Captain Lab](http://www.captain-whu.com/team.html) from School of Computer Science, Wuhan University.       
 
-You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).       
+    
 <!--
 ### Publication
 
@@ -41,7 +42,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   Cumulative GPA: 3.88/4.0 (Rank: top 7%).      
   <!--
   Relevant Courses: Discrete Mathematics(score:94), Information Processing of Cognitive Processes(score:97),Data Structure(score:93),Digital Image Processing and Application（score:97）,Combinatorial Mathematics(score:96),Advanced Programming Language(score:91),System-Level Programming(score:98),Computer Organiazation and Design(score:90),Operating Systems(score:95),Database Systems(score:97),Computer Networks(score:90),Business Intelligence(score:95).
-  --!>
+  -->
 
 ### Experience
 
