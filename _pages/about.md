@@ -49,7 +49,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 - **Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
   01/2024 - 07/2024           
   Advisor: [Jiang Wu]().      
-  Topic: H2RSVLM: Towards Helpful and Honest Remote 001 001 Sensing Large Vision Language Model(arXiv coming soon)
+  Topic: H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model(arXiv coming soon)
 
 ### Project
 
