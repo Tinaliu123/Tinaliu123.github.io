@@ -14,11 +14,11 @@ Hi,I am a third year undergraduate student from [School of Computer Science](htt
 I am very fortunate to be advised by [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ) of [Captain Lab](http://www.captain-whu.com/team.html) from School of Computer Science, Wuhan University.       
 
 You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
+<!--
 ### Publication
 
 #### 2024
-<!--
+
 - **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation.**
   Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu
   NeurIPS 2023
@@ -39,14 +39,16 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   2021 - 2025, [School of Computer Science](https://cs.whu.edu.cn/)
   Advisor: [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ).
   Cumulative GPA: 3.88/4.0 (Rank: top 7%).      
+  <!--
   Relevant Courses: Discrete Mathematics(score:94), Information Processing of Cognitive Processes(score:97),Data Structure(score:93),Digital Image Processing and Application（score:97）,Combinatorial Mathematics(score:96),Advanced Programming Language(score:91),System-Level Programming(score:98),Computer Organiazation and Design(score:90),Operating Systems(score:95),Database Systems(score:97),Computer Networks(score:90),Business Intelligence(score:95).
+  --!>
 
 ### Experience
 
 - **Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
   01/2024 - 07/2024           
   Advisor: [Jiang Wu]().      
-  Topic: H2RSChat:Towards Helpful and Honest Remote Sensing Large Vision Language Model (arXiv coming soon)
+  Topic: H2RSVLM: Towards Helpful and Honest Remote 001 001 Sensing Large Vision Language Model(arXiv coming soon)
 
 ### Project
 
