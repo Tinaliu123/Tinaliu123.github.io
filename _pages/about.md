@@ -19,10 +19,10 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 #### 2024
 
-- **H\textsuperscript{2}RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.**
+- **H<sup>2</sup>RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.**         
   <!--Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu-->
-  Chao Pang, Jiang Wu, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia, Conghui He
-  ECCV 2024 in review
+  Chao Pang, Jiang Wu, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia, Conghui He         
+  ECCV 2024 in review         
   [paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
 <!--
 - **Towards Effective Ancient Chinese Translation: Dataset, Model, and Evaluation.**
@@ -50,7 +50,8 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 - **Research Intern, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
   01/2024 - 07/2024           
   Advisor: [Jiang Wu](https://ieeexplore.ieee.org/author/244249467632638).      
-  Topic: H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.[paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
+  Topic: H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.
+  [paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
 
 ### Project
 
