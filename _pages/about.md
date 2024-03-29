@@ -23,8 +23,11 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   <!--Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu-->
 
      
-  Chao Pang†, Jiang Wu†, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia, Conghui He         
-  ECCV 2024 in review    [paper](https://web3.arxiv.org/pdf/2310.01404.pdf)
+  Chao Pang†, Jiang Wu†, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia, Conghui He
+
+        
+  ECCV 2024 in review
+  [paper](https://arxiv.org/pdf/2308.00240.pdf)
 <!--
 - **Towards Effective Ancient Chinese Translation: Dataset, Model, and Evaluation.**
   Geyang Guo, Jiarong Yang, Fengyuan Lu, **Jiaxin Qin**, Tianyi Tang, Wayne Xin Zhao
