@@ -19,7 +19,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 #### 2024
 
-- **H<sup>2</sup>RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.**                    
+- **H<sup>2</sup>RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.**                                             
   <!--Yanjie Ze, Yuyao Liu†, Ruizhe Shi†, **Jiaxin Qin**, Zhecheng Yuan, Jiashun Wang, Huazhe Xu-->              
   Chao Pang†, Jiang Wu†, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia, Conghui He                    
   ECCV 2024 in review
