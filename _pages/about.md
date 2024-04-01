@@ -21,7 +21,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 - **H<sup>2</sup>RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model.**                                                    
   Chao Pang*, Jiang Wu*, Jiayu Li, **Yi Liu**, Jiaxing Sun, Weijia Li,  Xingxing Weng, Shuai Wang,  Litong Feng, Gui-Song Xia†, Conghui He†                                         
-  [[paper]](https://arxiv.org/pdf/2308.00240.pdf)             
+  [[paper]](https://arxiv.org/abs/2403.20213)             
 
 ### Education
 <!--
@@ -43,7 +43,7 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   01/2024 - 07/2024           
   Advisor: [Jiang Wu](https://ieeexplore.ieee.org/author/244249467632638).      
   Topic: H<sup>2</sup>RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model              
-  [[paper]](https://web3.arxiv.org/pdf/2310.01404.pdf)
+  [[paper]](https://arxiv.org/abs/2403.20213)
 
 ### Project
 
