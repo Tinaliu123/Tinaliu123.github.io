@@ -25,18 +25,17 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
   [[paper]](https://arxiv.org/abs/2403.20213)             
 
 ### Education
-<!--
+
 - **University of California Davis**
   2023.3 - 2024.6, Exchange student in [Computer Science Department](https://cs.ucdavis.edu/)
-  Relevant Courses: [Advanced Artificial Intelligence](https://www.ifmlab.org/courses.html) (graduate-level course, A+).
--->
+
 - **B.E., Wuhan University**
   2021 - 2025, [School of Computer Science](https://cs.whu.edu.cn/)                          
   Advisor: [Prof. Gui-Song Xia](https://scholar.google.com.hk/citations?hl=zh-CN&user=SAUCVsEAAAAJ).                     
   Cumulative GPA: 3.88/4.0 (Rank: top 7%).      
-  <!--
+
   Relevant Courses: Discrete Mathematics(score:94), Information Processing of Cognitive Processes(score:97),Data Structure(score:93),Digital Image Processing and Application（score:97）,Combinatorial Mathematics(score:96),Advanced Programming Language(score:91),System-Level Programming(score:98),Computer Organiazation and Design(score:90),Operating Systems(score:95),Database Systems(score:97),Computer Networks(score:90),Business Intelligence(score:95).
-  -->
+
 
 ### Experience
 
