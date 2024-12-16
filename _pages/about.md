@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Yi Liu"
@@ -60,3 +61,4 @@ You can find my CV here: [Liu Yi's Curriculum Vitae](../assets/Curriculum_Vitae.
 - **National Third Prize**, China Collegiate Computing Contest Aritificial Intelligence Innovation Contest, 2023.
 - **First prize**,Chinese Collegiate Computing Competition in South Central Division , 2023.
 - **Third Prize**, Asia and Pacific Mathematical Contest in Modeling, 2022.
+-->
